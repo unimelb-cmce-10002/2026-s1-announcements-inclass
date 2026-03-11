@@ -1,7 +1,7 @@
 ---
-title: "Presentation"
-author: "Lachlan Deer"
-institute: "Somewhere"
+title: "In-Class Announcements"
+author: "Foundations of Business Analytics"
+institute: "Semester 1 2026"
 format: 
   beamer: 
     aspectratio: 32
@@ -9,34 +9,20 @@ format:
     theme: mousteau
 ---
 
-# In the morning
+## Mid Semester Test
 
-## Getting up
+Format:
 
-- Turn off alarm
-- Get out of bed
+- **When**: Tuesday, the **\alert{14th April}**, between **\alert{15:00 and 18:00 AEST}**
+- **Where**: On **\alert{Canvas}**
+- **How long**: You have **\alert{30 mins once started}**, one attempt
+- **Format**: **\alert{20 questions}**, mixed **\alert{MCQ and short answer}** format 
+- **Topic Coverage**: Everything from the **\alert{first 5 weeks lectures}**
 
-## Breakfast
+Notes:
 
-- Eat eggs
-- Drink coffee
-
-# In the evening
-
-## Dinner
-
-- Eat spaghetti
-- Drink wine
-
-## Going to sleep
-
-- Get in bed
-- Count sheep
-
-# Before I Sleep
-
-## I write equations
-
-$$
-y = x \beta + \varepsilon
-$$
+- Lectures still take place in Week 6, Mid Semester Test is additional time you must spend on the course
+- If you have **\alert{classes over the entire 3 hour window}**, email **accounting-teaching@unimelb.edu.au** AND CC **cmce-10002@unimelb.edu.au**
+    - Report your name and student ID
+    - Explain the clash.
+    - **Do it soon!!**
