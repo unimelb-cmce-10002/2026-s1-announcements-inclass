@@ -1,3 +1,4 @@
 /.quarto/
 *.pdf
 **/*.quarto_ipynb
+.Rproj.user

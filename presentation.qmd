@@ -9,6 +9,31 @@ format:
     theme: mousteau
 ---
 
+# Week 5
+
+## Mid Semester Test: Content
+
+- **Format**: **\alert{20 questions}**, mixed **\alert{MCQ and short answer}** format 
+- **Topic Coverage**: Everything from the **\alert{first 5 weeks lectures}** (including lecture readings)
+  - With a strong focus on **R code** ...
+  - ... Because the code we have covered so far forms the base of everything we do in the remaining weeks of the semester
+  
+## Mid Semester Test: Lockdown Browser
+
+- To complete the MST, **you must use the Respondus LockDown browser**. 
+
+- Further information, including installation instructions are available at the link below:
+
+[LockDown Browser](https://students.unimelb.edu.au/course-admin/exams/device-preparation-on-campus-exams#LMS-Quiz)
+
+- **Install and test** the browser works for you **before the MST**
+  - Really, do it this week!
+
+- We cannot guarantee we can help with browser on the day of the MST!
+
+
+# Week 2 
+
 ## Mid Semester Test
 
 Format:
